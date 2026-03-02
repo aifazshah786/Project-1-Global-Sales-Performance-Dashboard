@@ -54,14 +54,6 @@ This project delivers an interactive **Global Sales Performance Dashboard** buil
 
 ---
 
-## 📁 Repository Contents
-
-* `Dashboard.pbix` → Power BI Dashboard File
-* `Dataset.xlsx` → Sales Dataset
-* `README.md` → Project Documentation
-
----
-
 ## 🚀 Business Value
 
 This dashboard helps businesses:
